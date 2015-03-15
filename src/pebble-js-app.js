@@ -82,7 +82,7 @@ function BuscaParadas(parada,linea) {
     //console.log("URL: http://www.auesa.es/paradas_qr/"+parada+".php?vari="+linea);
 
     //var response = HTTPGET("https://clientes.domoblue.es/onroll_data/infoOnroll.php?key=AQUI VA LA CLAVE API");
-    var response = HTTPGET("https://dl.dropboxusercontent.com/u/119376/bicis.xml");
+    var response = HTTPGET("https://dl.dropboxusercontent.com/u/11937/bicis.xml");
 
     var datos = [];                  // Good 
     var i;
