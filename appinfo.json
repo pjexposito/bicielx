@@ -1,0 +1,66 @@
+{
+    "appKeys": {
+        "KEY_T1": 0,
+        "KEY_T2": 1,
+        "KEY_T3": 2,
+        "KEY_T4": 3
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Pedro",
+    "longName": "BiciElx",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/candado.png",
+                "name": "IMAGEN_CANDADO",
+                "type": "png"
+            },
+            {
+                "file": "images/bici.png",
+                "name": "IMAGEN_BICI",
+                "type": "png"
+            },
+            {
+                "file": "images/icono.png",
+                "name": "IMAGE_ICONO_PRINCIPAL",
+                "type": "png"
+            },
+            {
+                "file": "images/buscar.png",
+                "name": "ICONO_BUSCAR",
+                "type": "png"
+            },
+            {
+                "file": "images/play.png",
+                "name": "ICONO_PLAY",
+                "type": "png"
+            },
+            {
+                "file": "images/pulsar.png",
+                "name": "ICON_PULSAR",
+                "type": "png"
+            },
+            {
+                "file": "images/abajo.png",
+                "name": "ICONO_ABAJO",
+                "type": "png"
+            },
+            {
+                "file": "images/arriba.png",
+                "name": "ICONO_ARRIBA",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "BiciElx",
+    "uuid": "21663966-7994-4129-9ff5-2163628e535f",
+    "versionCode": 1,
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
